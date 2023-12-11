@@ -1,0 +1,86 @@
+/* body{
+    background-color: aliceblue;
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container
+{
+    height: 40vh;
+    width: 25vw;
+    display: flex;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 15px;
+}
+.auth-input{
+    width:80px;
+    padding 1rem;
+    border:none;
+    border-bottom: 2px solid transparent;
+    outline:none;
+    border-radius:5px;
+    background-color: blueviolet;
+    font-weight:600;
+}
+.auth-btn
+{
+    border-radius: 5px;
+    width:80%;
+    padding: 1rem;
+    border:none;
+    background-color: rgb(125, 103, 145);
+    font-weight:600;
+    margin-top: ;
+} */
+h1{
+    text-align: center;
+}
+body{
+    background-color:rgb(163, 243, 239); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 3rem;
+}
+.container{
+    background-color:rgb(210, 245, 229);
+    display: flex;
+    width: 30vw;
+    height: 50vh;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem;
+    flex-direction: column;
+    box-shadow:
+
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+  100px 100px 80px rgba(0, 0, 0, 0.07)
+;
+border-radius: 5%;
+}
+.inp-class{
+    border: none;
+    border-radius:0.9rem;
+    outline: none; 
+    padding: 0.5rem;
+    width: 80%;
+    gap: 4rem;
+}
+.inp-class:hover{
+border-bottom: 2px solid rgb(48, 205, 241);
+}
