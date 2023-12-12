@@ -1,45 +1,32 @@
-// import React from 'react';
+import React from "react";
+// import Cards from "./cards";
+ function home() {
+	return (
+		<>
+			<header>
+				<div className="navWrapper" id="home">
+					<div className=" clearfix">
+						<h2 className="companyName">ラテン</h2>
+						<nav className="mainNav clearfix">
+							<ul>
+								<li><a href="#home">Home</a></li>
+								<li><a href="#work" className="smoothScroll">Work</a></li>
+								<li><a href="#about" className="smoothScroll">About</a></li>
+								<li><a href="#contact" className="smoothScroll">Contact</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
 
-
-function home() {
-  return (
-    <>
-    <nav className="navbar">
-    <h1 className="logo"></h1>
-    <h1 class="logo">THE WORLD OF CARZ</h1>
-    <ul>
-        <li><a href="demo.html">REGISTER</a></li>
-        <li><a href="login.html">LOGIN</a></li>
-    </ul>
-</nav> 
-
-    <div className="App">
-      <header className="App-header">
-        {/* <h1>GOAT</h1>
-        <p>Hello</p> */}
-
-      </header>
-      <main>
-        <section>
-          <h2>About Us</h2>
-          <p>Heyyy</p>
-        </section>
-        <section>
-          <h2>Services</h2>
-          <p>Check out our services.</p>
-        </section>
-        <section>
-          <h2>Contact</h2>
-          <p>Get in touch with us.</p>
-        </section>
-      </main>
-
-      <footer>
-        <p>&copy; 2023 My Website. All rights reserved.</p>
-      </footer>
-    </div>
-        </>
-  );
+				<section className="hero">
+					<div className="innerWrapper">
+						<h1>おいしい食べ物</h1>
+						<h3>Mixed Cusines  of western and japanese style</h3>
+					</div>
+				</section>
+			</header>
+			
+		</>
+	);
 }
-
-export default home;
+export default home
