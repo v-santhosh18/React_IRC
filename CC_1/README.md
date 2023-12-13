@@ -70,4 +70,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Navbar
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/navbar.jpg">
+
+# card1
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/card1.jpg">
+
+# card2
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/card2.jpg">
+
+# card3(1)
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/card3(1).jpg">
+
+# card3(2)
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/card3(2).jpg">
+
+# about 
+
 <img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/about.jpg">
+
+# footer
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/footer.jpg">
+
+# login
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/login.jpg">
+
+# signup
+
+<img src="https://github.com/v-santhosh18/React_IRC/blob/main/CC_1/screenshots/signup.jpg">
