@@ -199,41 +199,6 @@ aria-describedby="modal-modal-description"
   <Button variant="contained" color='secondary' sx={{my:1,width:'100%',p:2}}>Login</Button>
 </Box>
 </Modal>
-<Box sx={{ flexGrow: 1 }}>
-      <Grid container spacing={2}>
-        
-        <Grid xs={3}>
-          <Item>xs=3</Item>
-        </Grid>
-        <Grid xs={3}>
-          <Item>xs=3</Item>
-        </Grid>
-        <Grid xs={3}>
-          <Item>xs=3</Item>
-        </Grid>
-        <Grid xs={3}>
-          <Item>xs=3</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-        <Grid xs={2}>
-          <Item>xs=2</Item>
-        </Grid>
-      </Grid>
-    </Box>
 </>
   );
 }
