@@ -7,7 +7,6 @@
 #btn3 button{
     width: 150px;
     height: 30px;
-    /* background: transparent; */
     border: 1px solid black;
     transition: 0.5s ease;
     cursor: pointer;
