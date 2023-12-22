@@ -1,9 +1,16 @@
-import './Assets/css/StateEx.css';
-// import stateEx from './components/StateEx';
+
+import { BrowserRouter as Router,Route, Routes } from 'react-router-dom';
+import StateEx from './components/StateEx'
+import Login from './components/Login';
+import MyCarousel from './components/MyCarousel';
 function App() {
   return (
     <>
-    <stateEx/>
+      <Routes>
+      <Route path="/" element={<StateEx/>}/>
+      <Route path="/login" element={<Login/>}/>
+      </Routes>
+     <MyCarousel/>
     </>
   );
 }

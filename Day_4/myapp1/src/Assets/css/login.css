@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.HomeContainer
+{
+    display: flex;
+    flex-direction: row; 
+    width: auto;
+    height: 100vh;
+}
+.sub-container
+{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.imageLogin
+{
+    width: 60%;
+    height: 80vh;
+    margin-left: 0;
+    padding-top: 5.5%;
+  
+}
+.headers
+{
+    display: flex;
+    flex-direction: column;
+    color: #333;
+    font-size : 30px;
+    font-weight:bold ;
+    gap : 70px;
+}
+
+.inputs
+{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    gap: 50px;
+    outline: none;
+}
+.inputs input
+{
+    border: none;
+    border-bottom: 2px solid #d9534f;
+    padding: 8px;
+    width: 400px;
+    height: 40px;
+    outline: none;
+}
+::placeholder {
+    color: #333;
+    font-weight: 700;
+    font-size: larger;
+    opacity: 0.4;
+  }
+  .account
+  {
+    float: left;
+    margin-top: 50px;
+  }
+  .account:hover{
+    text-decoration: underline;
+    color: #d9534f;
+  }
+
+  .account span
+  {
+    color: #333;
+    font-weight: 500;
+  }
+.submit-container button
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 30px;
+    margin-top: 120px;
+    background: #d9534f;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+.linkabs{
+    list-style: none;
+    text-decoration: none;
+    color: #333;
+}
+#id1
+{
+    color: #333;
+    text-decoration: none;
+    padding-right: 10px;
+
+}
